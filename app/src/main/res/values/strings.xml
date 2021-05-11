@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ejemplo_02_Intent</string>
+    <string name="fechahint">Año de nacimiento</string>
+    <string name="edad">Tu edad es:</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="annac">Año de nacimiento</string>
+    <string name="textview">Tu edad es:</string>
+    <string name="btcal">Calcular</string>
+    <string name="btsig">Siguiente</string>
+    <string name="ntel">Numero Telefonico</string>
+    <string name="web">www.ejemplo.com</string>
+    <string name="escrib">Escribeme</string>
+    <string name="contacto">Contactame</string>
+
+
+</resources>
